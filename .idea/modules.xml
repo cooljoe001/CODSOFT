@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CODSOFT.iml" filepath="$PROJECT_DIR$/CODSOFT.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Task3.iml" filepath="$PROJECT_DIR$/Task3.iml" />
+>>>>>>> 597dda7 (My task 3 of the codsoft internship)
     </modules>
   </component>
 </project>
